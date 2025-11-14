@@ -41,7 +41,7 @@ En la máquina virtual se realizaron las siguientes tareas:
 6. Instalación del entorno de escritorio.  
 7. Actualización del sistema mediante terminal con:
 
-   ```bash
+   bash
    sudo apt update
    sudo apt upgrade -y
 
