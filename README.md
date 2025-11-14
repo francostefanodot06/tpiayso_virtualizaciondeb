@@ -46,5 +46,5 @@ En la máquina virtual se realizaron las siguientes tareas:
    sudo apt upgrade -y
 
 # Marco teorico documento convertido a pdf [tpvirtualizacionayso (2).pdf](https://github.com/user-attachments/files/23536346/tpvirtualizacionayso.2.pdf)
-a creacion de la maquina virtual e instalacion del sistema Linux Debian [1 (1).pdf](https://github.com/user-attachments/files/23536353/1.1.pdf)
+# Creacion de la maquina virtual e instalacion del sistema Linux Debian [1 (1).pdf](https://github.com/user-attachments/files/23536353/1.1.pdf)
 # Capturas de la verificacion de la version de python, codigo del programa y resultado final [vpfayso.pdf](https://github.com/user-attachments/files/23537465/vpfayso.pdf)
